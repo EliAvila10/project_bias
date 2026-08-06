@@ -1,0 +1,12 @@
+name = "project_bias"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Private"]
+maintainers = ["Private <tumdespt@protonmail.com>"]
+maintainers-logins = ["EliAvila1"]
+licenses = "Apache-2.0"
+website = ""
+tags = ["ada", "spark", "cryptography", "entropy", "random", "high-assurance", "secure"]
+
+executables = ["project_bias"]
